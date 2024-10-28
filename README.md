@@ -5,12 +5,12 @@ This project is a Word Frequency Counter written in C++. The program takes user 
 The Word Frequency Counter project was developed to help users understand word frequency in a set of input words. The program prompts the user to input the number of words they wish to analyze, then reads each word and calculates the frequency of each unique word. By doing this, the project provides a simple introduction to C++ syntax, control structures, and basic data handling.
 
 # Features
-Counts word frequency: Identifies each unique word and its occurrence count from the user’s input.
-User-friendly interface: Prompts the user step-by-step to input the required data.
+1. Counts word frequency: Identifies each unique word and its occurrence count from the user’s input.
+2. User-friendly interface: Prompts the user step-by-step to input the required data.
 
 # Requirements
-To compile and run the program, you will need: A C++ compiler, such as GCC, Clang, or Visual Studio.
-A command-line interface (CLI), like Command Prompt on Windows, Terminal on macOS or Linux.
+1. To compile and run the program, you will need: A C++ compiler, such as GCC, Clang, or Visual Studio.
+2. A command-line interface (CLI), like Command Prompt on Windows, Terminal on macOS or Linux.
 
 # Usage
 1. Enter the Number of Words: The program first prompts you to enter the number of words you wish to analyze. This input determines how many words the program will read and process.
@@ -20,6 +20,7 @@ A command-line interface (CLI), like Command Prompt on Windows, Terminal on macO
 # Example
 Input:
 Enter number of words: 5
+
 Enter the words:
 apple banana apple orange banana
 
